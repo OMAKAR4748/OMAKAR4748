@@ -1,8 +1,6 @@
                     Hi 👋, I'm Omkar Desai
-____________________________________________________________________
                                                                                 
                  A passionate developer
-
 
 🌱 I’m currently learning *Java fullstack Develepment
 

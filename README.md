@@ -10,6 +10,6 @@ Connect with me:
 https://www.linkedin.com/in/omkar-desai-0332a2288/
 
 Languages and Tools:
-c cplusplus csharp css3 html5 java javascript mysql oracle php
+c c++ c# css html5 java javascript mysql oracle php
 
 

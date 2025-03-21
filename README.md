@@ -1,7 +1,18 @@
-# 💫 About Me:
-🌱 I’m currently learning *Java fullstack Develepment<br><br>📫 How to reach me omakardesai018@gmail.com<br><br>⚡ Fun fact : I Like To Learn More
+<h1 align="center">Hi 👋, I'm Omkar Desai</h1>
+<h3 align="center">A passionate full Stack developer</h3>
+<img align="right" alt="Coding" width="450" 
+src="https://camo.githubusercontent.com/3492228fd9a698d24cbe02d7e013abc0fe70eebeda013e47dab443f61efe5013/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=osama-am23&label=Profile%20views&color=0e75b6&style=flat" alt="om" /> </p>
 
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🌱 I’m currently learning **Full Stack Java**
+
+- 💬 Ask me about **Core java, MySql, Web Tech**
+
+- 📫 How to reach me omakardesai018@gmail.com
+  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/omkar-desai-0332a2288/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omakardesai018@gmail.com) 
 

@@ -1,29 +1,118 @@
-<h1 align="center">Hi 👋, I'm Omkar Desai</h1>
-<h3 align="center">A passionate full Stack developer</h3>
-<img align="right" alt="Coding" width="450" 
-src="https://camo.githubusercontent.com/3492228fd9a698d24cbe02d7e013abc0fe70eebeda013e47dab443f61efe5013/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966">
+# 👋 Hi, I'm Omkar Desai
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=osama-am23&label=Profile%20views&color=0e75b6&style=flat" alt="om" /> </p>
+<h3 align="center">🚀 Aspiring Data Scientist | Data Analyst | AI & Machine Learning Enthusiast</h3>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="center">
+  Turning Data into Insights and Building Intelligent Solutions with AI 🤖
+</p>
 
-- 🌱 I’m currently learning **Full Stack Java**
+<img align="right" alt="Data Science and AI" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG9qY2VtZ3B0M3p0bTQ4cXd6dG5qYjY3M3RrM2N2c3R3YzJ4eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/juua9i2c2fA0AIp2iq/giphy.gif">
 
-- 💬 Ask me about **Core java, MySql, Web Tech**
-
-- 📫 How to reach me omakardesai018@gmail.com
-  
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/omkar-desai-0332a2288/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omakardesai018@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=OMAKAR4748&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=OMAKAR4748&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lavanya3946&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 🌱 Currently learning **Machine Learning, Deep Learning, and Artificial Intelligence**
+- 📊 Interested in **Data Science, Data Analytics, and Business Intelligence**
+- 🤖 Building projects using **Python, SQL, and Machine Learning**
+- 📈 Exploring data visualization with **Power BI, Tableau, and Matplotlib**
+- 🧠 Interested in predictive modeling, statistical analysis, and AI-powered solutions
+- 💬 Ask me about **Python, SQL, Excel, Power BI, Data Analysis, and Machine Learning**
+- 📫 Reach me at: **omakardesai018@gmail.com**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=OMAKAR4748&icon=0&color=0)](https://visitcount.itsvg.in)
- 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/omkar-desai-0332a2288/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:omakardesai018@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+### 🐍 Programming & Query Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### 📊 Data Analytics & Visualization
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+
+### 🤖 Machine Learning & AI
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### 🛠️ Tools & Platforms
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🧠 Areas of Interest
+
+- 📊 Exploratory Data Analysis (EDA)
+- 🧹 Data Cleaning and Feature Engineering
+- 📈 Statistical Analysis and Hypothesis Testing
+- 🤖 Supervised and Unsupervised Machine Learning
+- 🧠 Deep Learning and Artificial Intelligence
+- 📉 Predictive Analytics and Forecasting
+- 📊 Interactive Dashboards and Business Intelligence
+- 🚀 Machine Learning Model Deployment with Streamlit
+
+---
+
+## 🚀 Featured Projects
+
+- 🏠 **House Price Prediction** — Linear Regression, Random Forest, and XGBoost
+- 👥 **AI-Powered Employee Attrition Prediction** — Predictive modeling and employee risk analysis
+- 📱 **Social Media Usage and Well-Being Analysis** — Happiness and stress prediction
+- 🛡️ **Identity Theft Risk Classification** — Machine learning-based risk classification
+- ☀️ **Solar Panel Defect and Power-Loss Prediction** — CNN and XGBoost
+- 🌾 **Agricultural Crop Recommendation System** — Data-driven crop recommendations
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=OMAKAR4748&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OMAKAR4748&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OMAKAR4748&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+---
+
+## 🎯 My Goal
+
+To grow as a **Data Scientist and AI/ML professional** by solving real-world problems, developing reliable machine learning models, and transforming raw data into actionable business insights.
+
+---
+
+<p align="center">
+  ⭐ <b>Thanks for visiting my profile!</b> ⭐
+  <br/>
+  Let's learn, build, and innovate with Data Science and AI.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=OMAKAR4748&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views"/>
+</p>

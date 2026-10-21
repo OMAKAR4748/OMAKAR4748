@@ -76,8 +76,6 @@
 - 🏠 **House Price Prediction** — Linear Regression, Random Forest, and XGBoost
 - 👥 **AI-Powered Employee Attrition Prediction** — Predictive modeling and employee risk analysis
 - 📱 **Social Media Usage and Well-Being Analysis** — Happiness and stress prediction
-- 🛡️ **Identity Theft Risk Classification** — Machine learning-based risk classification
-- ☀️ **Solar Panel Defect and Power-Loss Prediction** — CNN and XGBoost
 - 🌾 **Agricultural Crop Recommendation System** — Data-driven crop recommendations
 
 ---

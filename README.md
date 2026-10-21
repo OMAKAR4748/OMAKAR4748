@@ -90,9 +90,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=OMAKAR4748&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OMAKAR4748&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
 
 ---
 

@@ -82,9 +82,6 @@
 
 ## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=OMAKAR4748&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-</p>
 
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=OMAKAR4748&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
